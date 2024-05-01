@@ -1,0 +1,13 @@
+streamlit
+streamlit-option-menu
+numpy
+pandas
+geopandas
+seaborn
+matplotlib
+plotly
+plotly-express
+joblib
+pycaret
+gdown
+pyarrow
